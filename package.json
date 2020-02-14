@@ -16,7 +16,9 @@
     "url": "https://github.com/dorabelme/Quiz-App/issues"
   },
   "homepage": "https://github.com/dorabelme/Quiz-App#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
     "prettier": "^1.19.1"
   }
 }
