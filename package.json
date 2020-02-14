@@ -1,0 +1,22 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz App with HTML, CSS, and JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorabelme/Quiz-App.git"
+  },
+  "author": "Dora Belme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorabelme/Quiz-App/issues"
+  },
+  "homepage": "https://github.com/dorabelme/Quiz-App#readme",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
