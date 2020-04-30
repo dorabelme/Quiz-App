@@ -4,16 +4,16 @@
 
 Quiz App is a game built with HTML5, CSS3, and vanilla JavaScript. Questions are pulled in from the Open Trivia DB API
 
-- [Deployed front-end](https://quiz-app-game.netlify.com/)
+-   [Deployed front-end](https://quiz-app-game.netlify.com/)
 
 ## Short demo:
 
 <p align ="center">
-<img src="./quiz-app.gif" alt="game demo">
+<img src="./quizApp.gif" alt="game demo">
 </p>
 
 ## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+-   HTML5
+-   CSS3
+-   JavaScript
